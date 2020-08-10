@@ -10,7 +10,7 @@ function App() {
         <h1 className='App-title'>Counter app in ReactJS</h1>
       </header>
       <Counter initValue={0} />
-      <Counter initValue={108} />
+      <Counter initValue={22} />
     </div>
   );
 }

@@ -5,9 +5,13 @@
     margin: 40px auto;
 }
 
-.counter span.value {
+.counter span {
     color: red;
     margin-left: 10px;
+}
+
+.counter p {
+    margin: 0;
 }
 
 button {
