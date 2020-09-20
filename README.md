@@ -1,5 +1,5 @@
 # Counter app
-This is simple counter. It allows You to add custom steps, reach next levels.
+This is simple counter. It allows user to add custom steps, reach next levels.
 
 ## Table of contents
 * [Demo](#demo)
