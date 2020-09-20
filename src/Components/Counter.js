@@ -50,7 +50,7 @@ class Counter extends Component {
   };
 
   resetValue = () => {
-    this.setStep(0);
+    this.setStep(1);
     this.setState({
       counterValue: 0,
       level: 1,
