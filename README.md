@@ -9,7 +9,7 @@ This is simple counter. It allows user to add custom steps, reach next levels.
 * [Sources](#sources)
 
 ## Demo
-Working demo of the project: https://aszymanski98.github.io/Counter-app-ReactJS/
+Working demo of the project: https://aszymanski98.github.io/Counter-app/
 
 ## Features
 * Fully responsive page on computers and mobile devices
